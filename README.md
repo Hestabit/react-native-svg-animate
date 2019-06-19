@@ -9,12 +9,14 @@ Package is extended version of [react-native-svg-animations](https://www.npmjs.c
 * `svg-path-properties` 
 ### Installation
 ```
-$ npm i @hestabit/react-native-svg-animate --save
+$ npm i @hestabit/react-native-svg-animate
 ```
-### Package linking
+#### Install peer dependency
 ```
-$ react-native link @hestabit/react-native-svg-animate
+$ npm i react-native-svg 
+$ react-native link react-native-svg
 ```
+
 ### Showcase
 ###### Async
 ![Async-bounce](https://github.com/Mr-Bhardwa7/react-native-svg-animate/blob/master/assets/images/async-bounce.gif?raw=true)
