@@ -1,8 +1,7 @@
 {
-  "name": "react-native-svg-animate",
+  "name": "@hestabit/react-native-svg-animate",
   "version": "0.0.1",
   "description": "Animate SVG path with diffrent animation types in both Android and IOS Application.",
-  "private": true,
   "main": "index.js",
   "keywords": [
     "react-native",
@@ -11,7 +10,21 @@
     "svg-path",
     "svg-animate"
   ],
-  "author": "Animesh Bhardwaj <animeshbhardwaj2@gmail.com>",
+  "author": "Hestabit <friends@hestabit.com> (https://www.hestabit.com)",
+  "contributors": "Animesh Bhardwaj <animesh@hestabit.in> (https://github.com/Mr-Bhardwa7)",
+  "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Hestabit/react-native-svg-animate"
+  },
+  "engines": {
+    "node": ">= 8.12.0",
+    "npm": ">= 6.7.0"
+  },
+  "bugs" : { 
+    "url" : "https://github.com/Hestabit/react-native-svg-animate/issues",
+    "email" : "friends@hestabit.com"
+  },
   "dependencies": {
     "color": "^3.1.2",
     "react-native-svg": "^9.5.1",
