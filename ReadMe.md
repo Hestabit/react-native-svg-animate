@@ -1,7 +1,7 @@
 # React Native SVG Animate
 ![](https://img.shields.io/badge/platform-react--native-brightgreen.svg) ![](https://img.shields.io/badge/license-MIT-000000.svg)
 > This package allow you to animate SVG path with diffrent animation types in both Android and IOS Application. 
-Package is extended version of [react-native-svg-animate](https://www.npmjs.com/package/react-native-svg-animate)
+Package is extended version of [react-native-svg-animations](https://www.npmjs.com/package/react-native-svg-animations)
 
 ### Dependencies
 * `color`
@@ -10,6 +10,10 @@ Package is extended version of [react-native-svg-animate](https://www.npmjs.com/
 ### Installation
 ```
 $ npm i react-native-svg-animate --save
+```
+### Package linking
+```
+$ react-native link react-native-svg-animate
 ```
 ### Showcase
 ###### Async
