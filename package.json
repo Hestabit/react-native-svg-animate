@@ -1,7 +1,17 @@
 {
   "name": "react-native-svg-animate",
   "version": "0.0.1",
+  "description": "Animate SVG path with diffrent animation types in both Android and IOS Application.",
   "private": true,
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "animation",
+    "svg",
+    "svg-path",
+    "svg-animate"
+  ],
+  "author": "Animesh Bhardwaj <animeshbhardwaj2@gmail.com>",
   "dependencies": {
     "color": "^3.1.2",
     "react-native-svg": "^9.5.1",
