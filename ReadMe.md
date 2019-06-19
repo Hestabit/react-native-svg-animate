@@ -9,11 +9,11 @@ Package is extended version of [react-native-svg-animations](https://www.npmjs.c
 * `svg-path-properties` 
 ### Installation
 ```
-$ npm i react-native-svg-animate --save
+$ npm i @hestabit/react-native-svg-animate --save
 ```
 ### Package linking
 ```
-$ react-native link react-native-svg-animate
+$ react-native link @hestabit/react-native-svg-animate
 ```
 ### Showcase
 ###### Async
@@ -40,7 +40,7 @@ Each path element is drawn one after the other. This animation gives the best im
 
 ### USAGE
 ```javascript
-import { AnimateSVG } from 'react-native-svg-animate'
+import { AnimateSVG } from '@hestabit/react-native-svg-animate'
 ```
 ```JSX
  <AnimateSVG
