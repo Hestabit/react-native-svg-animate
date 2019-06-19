@@ -1,5 +1,5 @@
 # React Native SVG Animate
-![](https://img.shields.io/badge/platform-react--native-brightgreen.svg) ![](https://img.shields.io/badge/license-MIT-000000.svg)
+![](https://img.shields.io/badge/platform-react--native-brightgreen.svg) ![](https://img.shields.io/static/v1.svg?label=license&message=ISC&color=blue)
 > This package allow you to animate SVG path with diffrent animation types in both Android and IOS Application. 
 Package is extended version of [react-native-svg-animations](https://www.npmjs.com/package/react-native-svg-animations)
 
@@ -20,16 +20,22 @@ $ react-native link react-native-svg-animate
 ![Async-bounce](https://github.com/Mr-Bhardwa7/react-native-svg-animate/blob/master/assets/images/async-bounce.gif?raw=true)
 
 ### Animation
+
 On the following images, the pink color represents the duration value, and the blue one is for delay value.
+
 ##### Async
 ![Async](https://github.com/Mr-Bhardwa7/react-native-svg-animate/blob/master/assets/images/async.jpg?raw=true)
+
 Each line is drawn asynchronously. They all start and finish at the same time, hence the name async.
+
 ##### Delayed
 ![Delayed](https://github.com/Mr-Bhardwa7/react-native-svg-animate/blob/master/assets/images/delayed.png?raw=true)
+
 Every path element is drawn at the same time with a small delay at the start. This is currently the default animation.
 
 ##### One By One
 ![One_By_ONE](https://github.com/Mr-Bhardwa7/react-native-svg-animate/blob/master/assets/images/one_by_one.jpg?raw=true)
+
 Each path element is drawn one after the other. This animation gives the best impression of live drawing. The duration for each line depends on their length to make a constant drawing speed.
 
 ### USAGE
