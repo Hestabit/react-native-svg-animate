@@ -1,6 +1,6 @@
 {
   "name": "@hestabit/react-native-svg-animate",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Animate SVG path with diffrent animation types in both Android and IOS Application.",
   "main": "index.js",
   "keywords": [
