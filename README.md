@@ -18,8 +18,9 @@ $ react-native link react-native-svg
 ```
 
 ### Showcase
-###### Async
-![Async-bounce](https://github.com/Mr-Bhardwa7/react-native-svg-animate/blob/master/assets/images/async-bounce.gif?raw=true)
+Async        |   Delayed       |  One By One
+:-----------:|:---------------:|:-----------:
+![Async-bounce](https://github.com/Mr-Bhardwa7/react-native-svg-animate/blob/master/assets/images/async-bounce.gif?raw=true) | ![Delayed-bounce](https://github.com/Mr-Bhardwa7/react-native-svg-animate/blob/master/assets/images/delayed-bounce.gif?raw=true) | ![OneByOne-bounce](https://github.com/Mr-Bhardwa7/react-native-svg-animate/blob/master/assets/images/oneByOne-bounce.gif?raw=true)
 
 ### Animation
 
