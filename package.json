@@ -11,7 +11,12 @@
     "svg-animate"
   ],
   "author": "Hestabit <friends@hestabit.com> (https://www.hestabit.com)",
-  "contributors": "Animesh Bhardwaj <animesh@hestabit.in> (https://github.com/Mr-Bhardwa7)",
+  "contributors": [
+    "Animesh Bhardwaj <animesh@hestabit.in> (https://github.com/Mr-Bhardwa7)",
+    "Anshul Mishra <anshul.mishra@hestabit.in> (https://github.com/anshul321)",
+    "Sumit Dey <sumit.d@hestabit.in>",
+    "Vikash Tomer <vikash.tomer@hestabit.in>",
+  ],
   "license": "ISC",
   "repository": {
     "type" : "git",
